@@ -1,8 +1,8 @@
 {
   "runtimeOptions": {
     "additionalProbingPaths": [
-      "C:\\Users\\Outmane.BALADI\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\Outmane.BALADI\\.nuget\\packages"
+      "C:\\Users\\outmane\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\outmane\\.nuget\\packages"
     ]
   }
 }
